@@ -23,3 +23,7 @@ Note regarding Web Interface: This repository currently provides the Backend Log
 It does not include a frontend HTML/CSS interface.
 
 For Developers: You can consume the inference logic by sending an HTTP POST request with an audio file to the endpoint defined in Run_on_web.ipynb to build your own UI.
+<img width="1483" height="584" alt="image" src="https://github.com/user-attachments/assets/5dc4610f-91b6-411a-bd1d-debfa32e30d9" />
+
+<img width="1230" height="499" alt="image" src="https://github.com/user-attachments/assets/d5a5d387-6a57-4117-a3cd-a4426ae44fcc" />
+
