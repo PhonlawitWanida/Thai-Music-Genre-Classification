@@ -1,5 +1,6 @@
 # Thai-Music-Genre-Classification
 Audio classification project analyzing traditional Thai music identities. Utilizes Python and Librosa for feature extraction (MFCCs, Chroma) to train a Random Forest model.
+
 💻 How to Run (Google Colab)
 1. Inference (Predicting Genre)
 Open notebooks/Run_on_web.ipynb in Google Colab.
