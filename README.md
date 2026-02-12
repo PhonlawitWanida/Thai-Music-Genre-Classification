@@ -17,12 +17,10 @@ Upload your dataset into the Dataset/ folder structure.
 
 Run the pipeline to process audio, extract features, and retrain the Random Forest model.
 
-🌐 Future Work & API Usage
-Note regarding Web Interface: This repository currently provides the Backend Logic and API Endpoint (via Flask/Python).
+⚠️ Disclaimer
+This repository does not include the actual audio dataset due to copyright restrictions.
 
-It does not include a frontend HTML/CSS interface.
-
-For Developers: You can consume the inference logic by sending an HTTP POST request with an audio file to the endpoint defined in Run_on_web.ipynb to build your own UI.
+For Training: Please organize your own audio files into folders named by region (e.g., Dataset/North/, Dataset/South/).
 <img width="1483" height="584" alt="image" src="https://github.com/user-attachments/assets/5dc4610f-91b6-411a-bd1d-debfa32e30d9" />
 
 <img width="1230" height="499" alt="image" src="https://github.com/user-attachments/assets/d5a5d387-6a57-4117-a3cd-a4426ae44fcc" />
